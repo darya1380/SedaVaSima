@@ -1,3 +1,3 @@
 # SedaVaSima
 trying to figure out the MVC design pattern with JavaFX 
-thanks from @Roozbeh-Sharifnasab
+thanks from @RoozbehSharifnasab
